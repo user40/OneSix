@@ -19,6 +19,7 @@ PK4ファイルは第4世代のポケモンのデータファイルで、[PKHeX]
 ![Imgur](https://i.imgur.com/gQVdjwY.png)
 
 * PK4ファイルを出力するには[ファイル]→[保存PKM]を選びます。ファイルの種類は "Decrypted PKM File (*.pk4)" を選択してください。
+
 ![img](https://i.imgur.com/SgaomOA.png[/img)
 
 ## 依存関係
