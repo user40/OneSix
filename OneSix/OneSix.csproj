@@ -5,6 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+
   <ItemGroup>
     <Reference Include="PKHeX.Core">
       <HintPath>..\..\PKHeX-master\PKHeX.Core\bin\Debug\netstandard2.0\PKHeX.Core.dll</HintPath>
